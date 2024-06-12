@@ -192,7 +192,7 @@ icon family也支持两种：`default`和`poker`
 
 2种风格与2种图标的混搭结果
 
-<img src="D:\Learn\软件工程\FunnyJsonExplorer-master\readme.assets\image-20240604195642503.png" alt="image-20240604195642503" style="zoom:50%;" />
+<img src="readme.assets/image-20240604195642503.png" alt="image-20240604195642503" style="zoom:50%;" />
 
 <img src="readme.assets/image-20240604195652151.png" alt="image-20240604195652151" style="zoom:50%;" />
 
